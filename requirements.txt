@@ -1,0 +1,22 @@
+# Data Manipulation & Calculus
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Plotting & Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Statistical Modeling & ARIMA
+statsmodels>=0.14.0
+scipy>=1.10.0
+
+# Machine Learning & Technical Analysis
+scikit-learn>=1.2.0
+
+# Financial Data Acquisition
+yfinance>=0.2.0
+pandas-datareader>=0.10.0
+
+# Jupyter Environment
+notebook
+ipykernel
